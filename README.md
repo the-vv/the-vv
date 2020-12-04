@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World 👋
+## I am a passionate Developer
+
+- Python developer
+- Angular Developer
+- Node.js Developer
 
 <!--
 **the-vv/the-vv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
