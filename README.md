@@ -1,7 +1,7 @@
-# Hello World 👋
-## I am a passionate Developer
+## Hello World 👋
+### I am a passionate Developer
 
-- Python developer
+- Python Developer
 - Angular Developer
 - Node.js Developer
 
