@@ -9,7 +9,7 @@
 |
 [Linkedin ](https://www.linkedin.com/in/vishnu-vinod-183b241a7/ "Vishnu Vinod") 
 |
-[Website](https://the-vv.github.io "the-vv")
+[Web](https://the-vv.github.io "the-vv")
 |
 [Instagram](https://www.instagram.com/_the_vv_/ "_the_vv_")
 
