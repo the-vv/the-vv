@@ -11,7 +11,6 @@
 
 - Angular Developer
 - Node.js Developer
-- PHP Developer
 - Python Developer
 
 #### My Projects
