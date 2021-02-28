@@ -15,6 +15,8 @@
 - Python Developer
 
 #### My Projects
+ - One Click Attendance for Zoom
+ - An automated Fire Fighting Robot
  - [Synced Notepad](https://syncednotepad.web.app/ "Notepad")
  - [A Disaster Management Website](https://santhigiridm.web.app/ "Santhigiri Disaster Management")
  - [Python GUI Calculator](https://github.com/the-vv/Daily-Tools-with-PythonGUI "Python Daily Tools GUI")
