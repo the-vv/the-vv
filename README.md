@@ -13,6 +13,8 @@
 - Angular Developer
 - Node.js Developer
 - Python Developer
+- MEAN Stack Developer
+- Full Stack Developer
 
 #### My Projects
  - One Click Attendance for Zoom
