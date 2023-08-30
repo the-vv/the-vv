@@ -1,4 +1,4 @@
-# Vishnu Vinod
+## Hello World </> I am the-vv
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthe-vv%2Fthe-vv&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thevv01/)
@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://the-vv.github.io)](https://the-vv.github.io)
 [![Github](https://img.shields.io/github/followers/the-vv?label=Follow&style=social)](https://github.com/the-vv)
 
-
+### 🤷‍♂️ Who Am I
 - Application Developer
 - Angular Developer
 - Node.js Developer
@@ -15,7 +15,7 @@
 - MEAN Stack Developer
 - Full Stack Developer
 
-#### My Projects
+### 🧑‍💻 My Projects
  - One Click Attendance for Zoom
  - An automated Fire Fighting Robot
  - [Cipher Chat Web](https://cipherchatapp.herokuapp.com/ "Cipher Chat")
