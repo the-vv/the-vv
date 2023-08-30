@@ -34,6 +34,3 @@
   <img width="36%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-vv&show_icons=true&locale=en&layout=compact&theme=dark" alt="the-vv" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=the-vv&theme=dark" alt="the-vv" />
 </div>
-
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
