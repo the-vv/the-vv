@@ -19,6 +19,7 @@
  - [ShareCode]([https://cipherchatapp.herokuapp.com/](https://sharecodeapp.onrender.com/) "ShareCode")
  - One Click Attendance for Zoom
  - An automated Fire Fighting Robot
+ - SManager - An Income/Expense Management App
  - [Cipher Chat Web](https://cipherchatapp.herokuapp.com/ "Cipher Chat")
  - [Synced Notepad](https://syncednotepad.web.app/ "Notepad")
  - [A Disaster Management Website](https://santhigiridm.web.app/ "Santhigiri Disaster Management")
