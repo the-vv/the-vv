@@ -7,6 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://the-vv.github.io)](https://the-vv.github.io)
 [![Github](https://img.shields.io/github/followers/the-vv?label=Follow&style=social)](https://github.com/the-vv)
 
+
 ### 🤷‍♂️ Who Am I
 - Application Developer
 - Angular Developer
@@ -16,16 +17,18 @@
 - Full Stack Developer
 
 ### 🧑‍💻 My Projects
- - [ShareCode](https://sharecodeapp.onrender.com/ "ShareCode")
- - One Click Attendance for Zoom
- - An automated Fire Fighting Robot
- - SManager - An Income/Expense Management App
- - [Cipher Chat Web](https://cipherchatapp.herokuapp.com/ "Cipher Chat")
- - [Synced Notepad](https://syncednotepad.web.app/ "Notepad")
- - [A Disaster Management Website](https://santhigiridm.web.app/ "Santhigiri Disaster Management")
- - [Python GUI Calculator](https://github.com/the-vv/Daily-Tools-with-PythonGUI "Python Daily Tools GUI")
- - [College Notifier Prototype](https://collegenotifier.000webhostapp.com/ "College Notifier")
-
+| Project Name                                                                                              | Technology                                         |
+|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| [ShareCode](https://sharecodeapp.onrender.com/ "ShareCode")                                               | ![Bootstrap](https://img.shields.io/badge/-angular-05122A?style=for-the-badge&logo=angular&color=353535) ![Bootstrap](https://img.shields.io/badge/-node.js-05122A?style=for-the-badge&logo=node.js&color=353535) |
+| [College Notifier App](https://collegenotifierapp.onrender.com/ "College Notifier")                       | ![Bootstrap](https://img.shields.io/badge/-ionic-05122A?style=for-the-badge&logo=ionic&color=353535) ![Bootstrap](https://img.shields.io/badge/-angular-05122A?style=for-the-badge&logo=angular&color=353535) ![Bootstrap](https://img.shields.io/badge/-node.js-05122A?style=for-the-badge&logo=node.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript&color=353535) |
+| SManager - An Income/Expense Management App                                                               | ![Bootstrap](https://img.shields.io/badge/-ionic-05122A?style=for-the-badge&logo=ionic&color=353535)  ![Bootstrap](https://img.shields.io/badge/-firebase-05122A?style=for-the-badge&logo=firebase&color=353535) |
+| One Click Attendance for Zoom                                                                             | ![Bootstrap](https://img.shields.io/badge/-python-05122A?style=for-the-badge&logo=python&color=353535) |
+| An automated Fire Fighting Robot                                                                          | ![Bootstrap](https://img.shields.io/badge/-javascript-05122A?style=for-the-badge&logo=javascript&color=353535) |
+| [Cipher Chat Web](https://cipherchatapp.herokuapp.com/ "Cipher Chat")                                     | ![Bootstrap](https://img.shields.io/badge/-angular-05122A?style=for-the-badge&logo=angular&color=353535) ![Bootstrap](https://img.shields.io/badge/-node.js-05122A?style=for-the-badge&logo=node.js&color=353535) |
+| [Synced Notepad](https://syncednotepad.web.app/ "Notepad")                                                | ![Bootstrap](https://img.shields.io/badge/-angular-05122A?style=for-the-badge&logo=angular&color=353535) ![Bootstrap](https://img.shields.io/badge/-firebase-05122A?style=for-the-badge&logo=firebase&color=353535) |
+| [A Disaster Management Website](https://santhigiridm.web.app/ "Santhigiri Disaster Management")           | ![Bootstrap](https://img.shields.io/badge/-angular-05122A?style=for-the-badge&logo=angular&color=353535) ![Bootstrap](https://img.shields.io/badge/-firebase-05122A?style=for-the-badge&logo=firebase&color=353535) |
+| [Python GUI Calculator](https://github.com/the-vv/Daily-Tools-with-PythonGUI "Python Daily Tools GUI")    | ![Bootstrap](https://img.shields.io/badge/-python-05122A?style=for-the-badge&logo=python&color=353535) |
+| [College Notifier Prototype](https://collegenotifier.000webhostapp.com/ "College Notifier")               | ![Bootstrap](https://img.shields.io/badge/-php-05122A?style=for-the-badge&logo=php&color=353535) |
 
 
 ### ⚙️ Tech Stack
