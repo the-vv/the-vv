@@ -16,7 +16,7 @@
 - Full Stack Developer
 
 ### 🧑‍💻 My Projects
- - [ShareCode]([https://cipherchatapp.herokuapp.com/](https://sharecodeapp.onrender.com/) "ShareCode")
+ - [ShareCode](https://sharecodeapp.onrender.com/ "ShareCode")
  - One Click Attendance for Zoom
  - An automated Fire Fighting Robot
  - SManager - An Income/Expense Management App
